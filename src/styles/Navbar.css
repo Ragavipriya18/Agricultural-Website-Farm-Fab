@@ -1,0 +1,106 @@
+/*.main_nav{
+    display: flex;
+    gap: 700px;
+    height: 100px;
+    width: 1535px;
+    background-color: white;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.3);
+   
+}
+
+.main_nav :hover{
+    color:rgb(13, 103, 249);
+}
+.nav1 ul{
+    margin-left: 50px;
+    display: flex;
+    gap: 50px;
+    padding-top: 21px;
+}
+.nav2 ul{
+    display: flex;
+    gap: 50px;
+    padding-top: 21px;
+    
+   
+}
+.nav1 li{
+    list-style: none;
+}
+.nav2 li{
+    list-style: none;
+}
+.l1,.l2,.l3,.l4,.l5,.l6,.l7{
+    text-decoration: none;
+}
+*/
+
+.main_navbar{
+    display: flex;
+    background-color: white;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.10);
+    width: 1535px;
+    height: 100px;
+    
+    
+
+}
+.navbar2 ul{
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+    padding-top: 20px;
+    padding-left: 100px;
+}
+.navbar2 :link{
+    text-decoration: none;
+}
+.navbar2 :hover{
+    color: red;
+}
+.navbar2 .l1:hover{
+    text-decoration: underline;
+}
+.navbar2 .l2:hover{
+    text-decoration: underline;
+}
+.navbar2 .l3:hover{
+    text-decoration: underline;
+}
+.navbar2 .l6:hover{
+    text-decoration: underline;
+}
+.navbar2 .l7:hover{
+    text-decoration: underline;
+}
+
+.navbar2 ul li a.active {
+        color: rgb(255, 0, 106);
+        text-decoration: underline;
+        
+  }
+  .navbar3 ul li a.active {
+    color: rgb(255, 0, 106);
+    text-decoration: underline;
+    
+}
+.navbar3 ul{
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+    padding-top: 20px;
+    padding-left: 720px;
+    
+}
+.navbar3 :link{
+    text-decoration: none;
+}
+.navbar3 :hover{
+    color: red;
+}
+.navbar3 .l4:hover{
+    text-decoration:underline;
+}
+.navbar3 .l5:hover{
+    text-decoration: underline;
+}

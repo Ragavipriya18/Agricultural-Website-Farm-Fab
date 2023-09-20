@@ -1,0 +1,295 @@
+.main_service1 h1{
+    text-align: center;
+}
+.main_service1{
+    background-color: rgb(9, 82, 3);
+    background-image: url(https://images.pexels.com/photos/4505166/pexels-photo-4505166.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-image: cover;
+}
+.container_1 {
+    
+    background-color: rgb(252, 252, 252);
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.6);
+    border-radius: 20px;
+    width: 700px;
+    height: 500px;
+    border-radius: 2rem;
+    margin-left: 700px;
+
+  }
+  .container_1:hover{
+    transform: scale(1.1);
+  }
+  .ye2{
+        padding-top: 40px;
+  }
+  .ye1 h2,h3{
+        text-align: center;
+        color: rgb(9, 82, 3); ;
+  }
+  .ye2{
+    display: flex;
+  }
+  .ye3{
+    gap: 1rem;
+    display: flex;
+  }
+  .ye3_1 img{
+    margin-left: 14px;
+  }
+
+
+
+
+.service{
+    display:flex;
+    padding-top: 50px;
+    gap: 3rem;
+}
+.service1{
+    margin-left: 200px;
+    background-color: white;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.6);
+    border-radius: 30px;
+    width: 350px;
+    height: 350px;
+}
+.service1:hover{
+    transform:scale(1.1);
+    
+
+}
+.service2{
+    background-color: white;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.6);
+    border-radius: 30px;
+    width: 350px;
+    height: 350px;
+}
+.service2:hover{
+    transform:scale(1.1);
+    
+
+}
+.service3{
+    background-color: white;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.6);
+    border-radius: 30px;
+    width: 350px;
+    height: 350px;
+}
+.service3:hover{
+    transform:scale(1.1);
+    
+}
+.servicee{
+    display:flex;
+    padding-top: 50px;
+    gap: 3rem;
+}
+.servicee1{
+    margin-left: 200px;
+    background-color: white;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.6);
+    border-radius: 30px;
+    width: 350px;
+    height: 350px;
+}
+.servicee1:hover{
+    transform:scale(1.1);
+   
+
+}
+.servicee2{
+    background-color: white;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.6);
+    border-radius: 30px;
+    width: 350px;
+    height: 350px;
+}
+.servicee2:hover{
+    transform:scale(1.1);
+   
+
+}
+.servicee3{
+    background-color: white;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.6);
+    border-radius: 30px;
+    width: 350px;
+    height: 350px;
+}
+.servicee3:hover{
+    transform:scale(1.1);
+   
+
+}
+.service img{
+    margin-left: 85px;
+}
+.servicee img{
+    margin-left: 85px;
+}
+.service h4{
+    text-align: center;
+}
+.servicee h4{
+    text-align: center;
+}
+.service p{
+    text-align:center;
+}
+.servicee p{
+    text-align:center;
+}
+.btna{
+    color:rgb(255, 255, 255);
+    font-size:16px;
+    text-transform:uppercase;
+    letter-spacing:2px;
+    padding:16px 40px;
+    border-radius: 500px;
+    display:inline-block;
+    font-weight:300;
+    margin-left: 65px;
+    text-decoration: none;
+    transition: all .4s ease-in-out;
+    background-size: 152% 100%;
+    background:rgb(9, 82, 3);
+    border:2px solid rgb(9, 82, 3);
+}
+.btna:hover{
+    background:transparent;
+    border-color: rgb(9, 82, 3);
+    color:rgb(9, 82, 3);
+}
+.btnb{
+    color:rgb(255, 255, 255);
+    font-size:16px;
+    text-transform:uppercase;
+    letter-spacing:2px;
+    padding:16px 40px;
+    border-radius: 500px;
+    display:inline-block;
+    font-weight:300;
+    text-decoration: none;
+    margin-left: 65px;
+    transition: all .4s ease-in-out;
+    background-size: 152% 100%;
+    background:rgb(9, 82, 3);
+    border:2px solid rgb(9, 82, 3);
+}
+.btnb:hover{
+    background:transparent;
+    border-color: rgb(9, 82, 3);
+    color:rgb(9, 82, 3);
+}
+.btnc{
+    color:rgb(255, 255, 255);
+    font-size:16px;
+    text-transform:uppercase;
+    letter-spacing:2px;
+    padding:16px 40px;
+    border-radius: 500px;
+    display:inline-block;
+    font-weight:300;
+    text-decoration: none;
+    margin-left: 65px;
+    transition: all .4s ease-in-out;
+    background-size: 152% 100%;
+    background:rgb(9, 82, 3);
+    border:2px solid rgb(9, 82, 3);
+}
+.btnc:hover{
+    background:transparent;
+    border-color: rgb(9, 82, 3);
+    color:rgb(9, 82, 3);
+}
+.btnd{
+    color:rgb(255, 255, 255);
+    font-size:16px;
+    text-transform:uppercase;
+    letter-spacing:2px;
+    padding:16px 40px;
+    border-radius: 500px;
+    display:inline-block;
+    font-weight:300;
+    text-decoration: none;
+    margin-left: 65px;
+    transition: all .4s ease-in-out;
+    background-size: 152% 100%;
+    background:rgb(9, 82, 3);
+    border:2px solid rgb(9, 82, 3);
+}
+.btnd:hover{
+    background:transparent;
+    border-color: rgb(9, 82, 3);
+    color:rgb(9, 82, 3);
+}
+.btne{
+    color:rgb(255, 255, 255);
+    font-size:16px;
+    text-transform:uppercase;
+    letter-spacing:2px;
+    padding:16px 40px;
+    border-radius: 500px;
+    display:inline-block;
+    font-weight:300;
+    text-decoration: none;
+    margin-left: 65px;
+    transition: all .4s ease-in-out;
+    background-size: 152% 100%;
+    background:rgb(9, 82, 3);
+    border:2px solid rgb(9, 82, 3);
+}
+.btne:hover{
+    background:transparent;
+    border-color: rgb(9, 82, 3);
+    color:rgb(9, 82, 3);
+}
+.btnf{
+    color:rgb(255, 255, 255);
+    font-size:16px;
+    text-transform:uppercase;
+    letter-spacing:2px;
+    padding:16px 40px;
+    border-radius: 500px;
+    display:inline-block;
+    font-weight:300;
+    text-decoration: none;
+    margin-left: 65px;
+    transition: all .4s ease-in-out;
+    background-size: 152% 100%;
+    background:rgb(9, 82, 3);
+    border:2px solid rgb(9, 82, 3);
+}
+.btnf:hover{
+    background:transparent;
+    border-color: rgb(9, 82, 3);
+    color:rgb(9, 82, 3);
+}
+.service1 img{
+    padding-top: 23px;
+    padding-left: 35px;
+}
+.service2 img{
+    padding-top: 23px;
+    padding-left: 35px;
+}
+.service3 img{
+    padding-top: 23px;
+    padding-left: 35px;
+}
+.servicee1 img{
+    padding-top: 23px;
+    padding-left: 35px;
+}
+.servicee2 img{
+    padding-top: 23px;
+    padding-left: 35px;
+}
+.servicee3 img{
+    padding-top: 23px;
+    padding-left: 35px;
+}

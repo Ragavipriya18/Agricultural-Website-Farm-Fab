@@ -1,0 +1,58 @@
+.main_login{
+    background-color: white;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.6);
+    margin-top: 70px;
+    margin-left: 500px;
+    margin-right: 500px;
+    text-align: center;
+    height: 500px;
+    border-radius: 2rem;
+}
+.main_lg1 h1{
+    text-align: center;
+}
+h1{
+    color: black;
+    padding-top: 20px;
+}
+#lg1{
+    padding: 13px;
+    padding-right: 20px;
+    width: 300px;
+}
+#lg2{
+    padding: 13px;
+    padding-right: 20px;
+    width: 300px;
+}
+#lg3{
+    padding: 13px;
+    padding-right: 20px;
+    width: 300px;
+}
+
+.box-2 button{
+    padding-right: 150px;
+    padding-left: 150px;
+    width: 336px;
+    height: 35px;
+    text-align: center;
+    
+}
+.box-2 :link{
+    text-decoration: none;
+}
+.lg_1{
+    display: flex;
+}
+.lg_2{
+    padding-left: 125px;
+}
+.lg_3 :link{
+    text-decoration: none;
+}
+.lg_5{
+   padding-left: 222px;
+    display: flex;
+    gap: 2em;
+}

@@ -1,0 +1,129 @@
+.read-more-container {
+    
+    display: flex;
+    gap: 3rem;
+    text-align: justify;
+    padding-top: 40px;
+  }
+  .read-more-container img{
+    margin-left: 50px;
+    border-radius: 30px;
+  }
+  .hydro1{
+    padding-right: 60px;
+  }
+  .read-more-title {
+    padding-left: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .read-more-content {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #555;
+  }
+  .btn10{
+    margin-top: 30px;
+    color:rgb(255, 255, 255);
+    font-size:16px;
+    text-transform:uppercase;
+    letter-spacing:2px;
+    padding:16px 40px;
+    border-radius: 500px;
+    display:inline-block;
+    font-weight:300;
+    transition: all .4s ease-in-out;
+    background-size: 152% 100%;
+    background:rgb(9, 82, 3);
+    border:2px solid rgb(9, 82, 3);
+}
+.btn10:hover{
+    background:transparent;
+    border-color: rgb(9, 82, 3);
+    color:rgb(9, 82, 3);
+}
+.btn10:link{
+    text-decoration: none;
+}
+.btn11{
+    margin-top: 30px;
+    color:rgb(255, 255, 255);
+    font-size:16px;
+    text-transform:uppercase;
+    letter-spacing:2px;
+    padding:16px 40px;
+    border-radius: 500px;
+    display:inline-block;
+    font-weight:300;
+    transition: all .4s ease-in-out;
+    background-size: 152% 100%;
+    background:rgb(9, 82, 3);
+    border:2px solid rgb(9, 82, 3);
+}
+.btn11:hover{
+    background:transparent;
+    border-color: rgb(9, 82, 3);
+    color:rgb(9, 82, 3);
+}
+.btn11:link{
+    text-decoration: none;
+}
+.btn11{
+    margin-left: 30px;
+}
+.hydrotypes {
+    margin-top: 30px;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #555;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
+  .hydrotypes p {
+    margin-bottom: 10px;
+  }
+  
+  .hydrotypes strong {
+    font-weight: bold;
+  }
+  
+  .hydrotypes ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .hydrotypes li {
+    margin-bottom: 5px;
+  }
+  .hydroadv {
+    margin-top: 30px;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #555;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
+  .hydroadv p {
+    margin-bottom: 10px;
+  }
+  
+  .hydroadv strong {
+    font-weight: bold;
+  }
+  
+  .hydroadv ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .hydroadv li {
+    margin-bottom: 5px;
+  }

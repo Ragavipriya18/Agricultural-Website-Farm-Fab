@@ -1,0 +1,425 @@
+ .main_h1 h1{
+    padding-left: 700px;
+ }
+ .hom{
+   margin-top: 50px;
+   display: flex;
+   gap: 5rem;
+   margin-left: 170px;
+ }
+ .home_1 img{
+    border-radius: 30px;
+ }
+ .home_2 img{
+   border-radius: 30px;
+}
+.home_3 img{
+   border-radius: 30px;
+}
+.hom1{
+   display: flex;
+   gap: 5rem;
+   margin-top: 50px;
+   margin-left: 170px;
+}
+.home_4 img{
+   border-radius: 30px;
+}
+.home_5 img{
+   border-radius: 30px;
+}
+.home_6 img{
+   border-radius: 30px;
+}
+.hom2{
+   margin-top: 50px;
+   display: flex;
+   gap: 5rem;
+   margin-left: 170px;
+}
+.home_7 img{
+   border-radius: 30px;
+}
+.home_8 img{
+   border-radius: 30px;
+}
+.home_9 img{
+   border-radius: 30px;
+}
+.hom3{
+   margin-top: 50px;
+   display: flex;
+   gap: 5rem;
+   margin-left: 170px;
+}
+.home_10 img{
+   border-radius: 30px;
+}
+.home_11 img{
+   border-radius: 30px;
+}
+.home_12 img{
+   border-radius: 30px;
+}
+
+
+.home_1 {
+   position: relative;
+   display: inline-block;
+ }
+ 
+ .home_1 img {
+   transition: transform 0.3s ease;
+ }
+ 
+ .home_1:hover img {
+   transform: scale(1.2); /* Adjust the scaling factor as desired */
+ }
+ .text-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+   width: 100%;
+   height: 100%;
+   opacity: 0;
+   border-radius: 35px;
+   background-color:  rgba(0, 0, 0, 0.5);
+
+   color: white;
+   text-align: center;
+   transition: opacity 0.3s ease;
+ }
+
+ .home_1:hover .text-overlay {
+   opacity: 1;
+ }
+
+ .home_2 {
+   position: relative;
+   display: inline-block;
+ }
+ 
+ .home_2 img {
+   transition: transform 0.3s ease;
+ }
+ 
+ .home_2:hover img {
+   transform: scale(1.2); /* Adjust the scaling factor as desired */
+ }
+
+ .text-overlay1 {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   opacity: 0;
+   background-color:  rgba(0, 0, 0, 0.5);
+   border-radius: 35px;
+   color: white;
+   text-align: center;
+   transition: opacity 0.3s ease;
+ }
+
+ .home_2:hover .text-overlay1 {
+   opacity: 1;
+ }
+
+
+ .home_3 {
+   position: relative;
+   display: inline-block;
+ }
+ 
+ .home_3 img {
+   transition: transform 0.3s ease;
+ }
+ 
+ .home_3:hover img {
+   transform: scale(1.2); /* Adjust the scaling factor as desired */
+ }
+ .text-overlay2 {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   opacity: 0;
+   background-color:  rgba(0, 0, 0, 0.5);
+   border-radius: 35px;
+   color: white;
+   text-align: center;
+   transition: opacity 0.3s ease;
+ }
+
+ .home_3:hover .text-overlay2 {
+   opacity: 1;
+ }
+
+ .home_4 {
+   position: relative;
+   display: inline-block;
+ }
+ 
+ .home_4 img {
+   transition: transform 0.3s ease;
+ }
+ 
+ .home_4:hover img {
+   transform: scale(1.2); /* Adjust the scaling factor as desired */
+ }
+ .text-overlay3 {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   opacity: 0;
+   background-color:  rgba(0, 0, 0, 0.5);
+   border-radius: 35px;
+   color: white;
+   text-align: center;
+   transition: opacity 0.3s ease;
+ }
+
+ .home_4:hover .text-overlay3 {
+   opacity: 1;
+ }
+ .home_5 {
+   position: relative;
+   display: inline-block;
+ }
+ 
+ .home_5 img {
+   transition: transform 0.3s ease;
+ }
+ 
+ .home_5:hover img {
+   transform: scale(1.2); /* Adjust the scaling factor as desired */
+ }
+ .text-overlay4 {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   opacity: 0;
+   background-color:  rgba(0, 0, 0, 0.5);
+   border-radius: 35px;
+   color: white;
+   text-align: center;
+   transition: opacity 0.3s ease;
+ }
+
+ .home_5:hover .text-overlay4 {
+   opacity: 1;
+ }
+ .home_6{
+   position: relative;
+   display: inline-block;
+ }
+ 
+ .home_6 img {
+   transition: transform 0.3s ease;
+ }
+ 
+ .home_6:hover img {
+   transform: scale(1.2); /* Adjust the scaling factor as desired */
+ }
+ .text-overlay5 {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   opacity: 0;
+   background-color:  rgba(0, 0, 0, 0.5);
+   border-radius: 35px;
+   color: white;
+   text-align: center;
+   transition: opacity 0.3s ease;
+ }
+
+ .home_6:hover .text-overlay5 {
+   opacity: 1;
+ }
+
+ .home_7 {
+   position: relative;
+   display: inline-block;
+ }
+ 
+ .home_7 img {
+   transition: transform 0.3s ease;
+ }
+ 
+ .home_7:hover img {
+   transform: scale(1.2); /* Adjust the scaling factor as desired */
+ }
+ .text-overlay6{
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   opacity: 0;
+   background-color:  rgba(0, 0, 0, 0.5);
+   border-radius: 35px;
+   color: white;
+   text-align: center;
+   transition: opacity 0.3s ease;
+ }
+
+ .home_7:hover .text-overlay6 {
+   opacity: 1;
+ }
+
+ .home_8 {
+   position: relative;
+   display: inline-block;
+ }
+ 
+ .home_8 img {
+   transition: transform 0.3s ease;
+ }
+ 
+ .home_8:hover img {
+   transform: scale(1.2); /* Adjust the scaling factor as desired */
+ }
+ .text-overlay7{
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   opacity: 0;
+   background-color:  rgba(0, 0, 0, 0.5);
+   border-radius: 35px;
+   color: white;
+   text-align: center;
+   transition: opacity 0.3s ease;
+ }
+
+ .home_8:hover .text-overlay7{
+   opacity: 1;
+ }
+
+ .home_9 {
+   position: relative;
+   display: inline-block;
+ }
+ 
+ .home_9 img {
+   transition: transform 0.3s ease;
+ }
+ 
+ .home_9:hover img {
+   transform: scale(1.2); /* Adjust the scaling factor as desired */
+ }
+ .text-overlay8{
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   opacity: 0;
+   background-color:  rgba(0, 0, 0, 0.5);
+   border-radius: 35px;
+   color: white;
+   text-align: center;
+   transition: opacity 0.3s ease;
+ }
+
+ .home_9:hover .text-overlay8 {
+   opacity: 1;
+ }
+
+ .home_10 {
+   position: relative;
+   display: inline-block;
+ }
+ 
+ .home_10 img {
+   transition: transform 0.3s ease;
+ }
+ 
+ .home_10:hover img {
+   transform: scale(1.2); /* Adjust the scaling factor as desired */
+ }
+ .text-overlay9{
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   opacity: 0;
+   background-color:  rgba(0, 0, 0, 0.5);
+   border-radius: 35px;
+   color: white;
+   text-align: center;
+   transition: opacity 0.3s ease;
+ }
+
+ .home_10:hover .text-overlay9 {
+   opacity: 1;
+ }
+
+ .home_11 {
+   position: relative;
+   display: inline-block;
+ }
+ 
+ .home_11 img {
+   transition: transform 0.3s ease;
+ }
+ 
+ .home_11:hover img {
+   transform: scale(1.2); /* Adjust the scaling factor 
+   as desired */
+ }
+ .text-overlay10{
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   opacity: 0;
+   background-color:  rgba(0, 0, 0, 0.5);
+   border-radius: 35px;
+   color: white;
+   text-align: center;
+   transition: opacity 0.3s ease;
+ }
+
+ .home_11:hover .text-overlay10 {
+   opacity: 1;
+ }
+ .home_12 {
+   position: relative;
+   display: inline-block;
+ }
+ 
+ .home_12 img {
+   transition: transform 0.3s ease;
+ }
+ 
+ .home_12:hover img {
+   transform: scale(1.2); /* Adjust the scaling factor as desired */
+ }
+ .text-overlay11{
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   opacity: 0;
+   background-color:  rgba(0, 0, 0, 0.5);
+   border-radius: 35px;
+   color: white;
+   text-align: center;
+   transition: opacity 0.3s ease;
+ }
+
+ .home_12:hover .text-overlay11 {
+   opacity: 1;
+ }

@@ -1,0 +1,128 @@
+.read-more-container8 {
+    
+    display: flex;
+    gap: 3rem;
+    text-align: justify;
+    padding-top: 40px;
+  }
+  .read-more-container8 img{
+    margin-left: 50px;
+    border-radius: 30px;
+  }
+  .sus1{
+    padding-right: 60px;
+  }
+  .read-more-title8{
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .read-more-content8 {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #555;
+  }
+  .btn26{
+    margin-top: 30px;
+    color:rgb(255, 255, 255);
+    font-size:16px;
+    text-transform:uppercase;
+    letter-spacing:2px;
+    padding:16px 40px;
+    border-radius: 500px;
+    display:inline-block;
+    font-weight:300;
+    transition: all .4s ease-in-out;
+    background-size: 152% 100%;
+    background:rgb(9, 82, 3);
+    border:2px solid rgb(9, 82, 3);
+}
+.btn26:hover{
+    background:transparent;
+    border-color: rgb(9, 82, 3);
+    color:rgb(9, 82, 3);
+}
+.btn26:link{
+    text-decoration: none;
+}
+.btn27{
+    margin-top: 30px;
+    color:rgb(255, 255, 255);
+    font-size:16px;
+    text-transform:uppercase;
+    letter-spacing:2px;
+    padding:16px 40px;
+    border-radius: 500px;
+    display:inline-block;
+    font-weight:300;
+    transition: all .4s ease-in-out;
+    background-size: 152% 100%;
+    background:rgb(9, 82, 3);
+    border:2px solid rgb(9, 82, 3);
+}
+.btn27:hover{
+    background:transparent;
+    border-color: rgb(9, 82, 3);
+    color:rgb(9, 82, 3);
+}
+.btn27:link{
+    text-decoration: none;
+}
+.btn27{
+    margin-left: 30px;
+}
+.sustypes {
+    margin-top: 30px;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #555;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
+  .sustypes p {
+    margin-bottom: 10px;
+  }
+  
+  .sustypes strong {
+    font-weight: bold;
+  }
+  
+  .sustypes ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .sustypes li {
+    margin-bottom: 5px;
+  }
+  .susadv {
+    margin-top: 30px;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #555;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
+  .susadv p {
+    margin-bottom: 10px;
+  }
+  
+  .susadv strong {
+    font-weight: bold;
+  }
+  
+  .susadv ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .susadv li {
+    margin-bottom: 5px;
+  }

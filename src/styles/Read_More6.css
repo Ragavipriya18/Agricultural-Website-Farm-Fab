@@ -1,0 +1,128 @@
+.read-more-container6 {
+    
+    display: flex;
+    gap: 3rem;
+    text-align: justify;
+    padding-top: 40px;
+  }
+  .read-more-container6 img{
+    margin-left: 50px;
+    border-radius: 30px;
+  }
+  .con1{
+    padding-right: 60px;
+  }
+  .read-more-title6{
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .read-more-content6 {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #555;
+  }
+  .btn22{
+    margin-top: 30px;
+    color:rgb(255, 255, 255);
+    font-size:16px;
+    text-transform:uppercase;
+    letter-spacing:2px;
+    padding:16px 40px;
+    border-radius: 500px;
+    display:inline-block;
+    font-weight:300;
+    transition: all .4s ease-in-out;
+    background-size: 152% 100%;
+    background:rgb(9, 82, 3);
+    border:2px solid rgb(9, 82, 3);
+}
+.btn22:hover{
+    background:transparent;
+    border-color: rgb(9, 82, 3);
+    color:rgb(9, 82, 3);
+}
+.btn22:link{
+    text-decoration: none;
+}
+.btn23{
+    margin-top: 30px;
+    color:rgb(255, 255, 255);
+    font-size:16px;
+    text-transform:uppercase;
+    letter-spacing:2px;
+    padding:16px 40px;
+    border-radius: 500px;
+    display:inline-block;
+    font-weight:300;
+    transition: all .4s ease-in-out;
+    background-size: 152% 100%;
+    background:rgb(9, 82, 3);
+    border:2px solid rgb(9, 82, 3);
+}
+.btn23:hover{
+    background:transparent;
+    border-color: rgb(9, 82, 3);
+    color:rgb(9, 82, 3);
+}
+.btn23:link{
+    text-decoration: none;
+}
+.btn23{
+    margin-left: 30px;
+}
+.contypes {
+    margin-top: 30px;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #555;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
+  .contypes p {
+    margin-bottom: 10px;
+  }
+  
+  .contypes strong {
+    font-weight: bold;
+  }
+  
+  .contypes ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .contypes li {
+    margin-bottom: 5px;
+  }
+  .conadv {
+    margin-top: 30px;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #555;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
+  .conadv p {
+    margin-bottom: 10px;
+  }
+  
+  .conadv strong {
+    font-weight: bold;
+  }
+  
+  .conadv ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .conadv li {
+    margin-bottom: 5px;
+  }
